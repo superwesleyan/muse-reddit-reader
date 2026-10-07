@@ -24,3 +24,4 @@ It will not:
 - Train or fine-tune AI models
 
 The application is read-only and for personal, non-commercial use.
+Implementation will be added after Reddit Data API access is approved.
